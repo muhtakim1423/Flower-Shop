@@ -1,0 +1,210 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+
+.title{
+    
+    
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+
+}
+
+.section-btn{
+    color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+border: 0;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.introduction{
+    padding: 200px 100px 160px 0px;
+    text-align: left;
+}
+
+.picture-1{
+    width: 450px; 
+    height: 96%;
+    padding-top: 50px;
+    
+}
+.header-pic{
+    position: bottom ,right;
+}
+.header-section{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 0px 240px;
+}
+ /* about me section */
+
+ .section-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+/* padding:20px; */
+ }
+
+ .about-me-title{
+    text-align: center;
+    padding-top: 180px;
+    
+ }
+
+ .picture-2{
+    
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 110px 78px 0px 76px;
+width: 50%;
+height: 300px;
+
+ }
+
+ .picture-3{
+    
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding: 115px 45px 45px 50px;
+width: 70%;
+height: 250px;
+ }
+ .picture-4{
+    
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding: 65px 75px 0px 75px;
+height: 345px;
+width: 50%;
+ }
+
+ .flower-name{
+    color: #272727;
+font-size: 24px;
+font-weight: 700;
+text-decoration-line: underline;
+ }
+.flower{
+    text-align: center;
+}
+.about-me-description{
+    display: flex;
+    gap: 25px;
+    padding:50px 240px 0px 240px ;
+    
+    
+}
+
+/* service section */
+.description{
+    color: rgba(39, 39, 39, 0.80);
+font-size: 24px;
+font-weight: 600;
+}
+.service-item{
+    text-align: center;
+} 
+.service-items{
+display: flex;
+padding: 85px 175px;
+border-radius: 8px;
+background-color: rgba(39, 39, 39, 0.05);
+text-align: center;
+margin:120px 240px;
+gap:100px
+}
+
+.picture-5{
+    height: 100%;
+    width: 350px;
+    padding-top: 30px;
+}
+ /*login-section  */
+ .login-section{
+    display: flex;
+    text-align: center;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+padding: 230px 400px 100px 300px;
+gap: 180px;
+ }
+/* social media section */
+
+.media-section{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+ /* image-section */
+ .picture-6{
+    width: 23%;
+ }
+ .image-section{
+    display: flex;
+    margin: 0px 240px 120px 240px;
+    gap: 24px;
+ }
+
+ /* subscribe section start */
+ .subscribe-section{
+    border-radius: 8px;
+background-image: url("Flower-Asset/Rectangle\ 9.png");
+    text-align: center;
+    margin: 0px 240px 120px 240px;
+    padding: 120px 150px ;
+    background-repeat: no-repeat;
+    
+    width: 45%;
+    
+ }
+ .input{
+    padding: 30px 250px 28px 25px;
+    color: rgba(39, 39, 39, 0.60);
+    margin-right: 10px;
+    border-radius: 8px;
+background: #FFF;
+border: #FFF;
+
+
+ }
+ 
+ 
+ /* subscribe section end */
+
+ /* footer section */
+ .footer-section{
+    text-align: center;
+    background: #111010;
+    padding: 120px ;
+ }
+ .footer-title{
+    font-size: 48px;
+    color: #E55473;
+font-weight: 800;
+ }
+ .f-shop{
+    color: #FFF;
+ }
+ .footer-description{
+    color: rgba(255, 255, 255, 0.90);
+font-size: 18px;
+ }
+ .footer-subdescription{
+    color: rgba(255, 255, 255, 0.40);
+ }
